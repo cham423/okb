@@ -15,6 +15,7 @@
 * [Site Walkthrough](the-talk/site-walkthrough.md)
 * [Contribute!](the-talk/contribute.md)
 * [Some General OSINT Thoughts](the-talk/some-general-osint-thoughts.md)
+* [Wrap-up / Questions](the-talk/wrap-up-questions.md)
 
 ## Reviewed Content
 
