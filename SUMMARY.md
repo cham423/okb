@@ -42,8 +42,10 @@
 * [Web Scraping](general-osint-info/web-scraping/README.md)
   * [Paste Sites](general-osint-info/web-scraping/paste-sites.md)
 * [File Hosting Sites](general-osint-info/file-hosting-sites.md)
+* [WiFi](general-osint-info/wifi.md)
 * [Training](general-osint-info/training/README.md)
   * [Joe Gray / The OSINTion](general-osint-info/training/joe-gray-the-osintion.md)
+* [Code Repositories](general-osint-info/code-repositories.md)
 
 ## About
 

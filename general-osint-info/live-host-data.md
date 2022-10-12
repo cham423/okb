@@ -4,9 +4,21 @@
 
 [https://www.shodan.io](https://www.shodan.io)
 
+#### Details
+
 * $69 - $1099 per month depending on number of results per month needed
 * 1 million, 20 million, or unlimited results options
 * 137,390,036 results for port:443
+
+#### Usage Tips
+
+* use `net:127.0.0.1/8` for searching for results in a CIDR network
+* supports JARM searches with `ssl.jarm` parameter
+* can stack queries i.e. `ssl.jarm:"2ad2ad16d2ad2ad22c42d42d000000dc2b105e4dda975fa70719c0cae5d0ce" net:203.97.69.74/24`
+* supports organization filters i.e. `org:"Verizon Business"`
+* supports SSN cert CN filters i.e. `ssl.cert.subject.cn:"*.google.com"`
+
+
 
 ### RiskIQ Community
 
