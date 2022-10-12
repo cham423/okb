@@ -26,10 +26,10 @@
 * [Categories](reviewed-content/categories/README.md)
   * [Public Breach Databases](reviewed-content/categories/public-breach-databases.md)
   * [Multipurpose Reconnaissance Tools](reviewed-content/categories/multipurpose-reconnaissance-tools.md)
+  * [Live Host Data](reviewed-content/categories/live-host-data.md)
 
 ## 🕸 General OSINT Info
 
-* [Live Host Data](general-osint-info/live-host-data.md)
 * [Identity Data](general-osint-info/identity-data.md)
 * [Documentation](general-osint-info/documentation/README.md)
   * [Screen Capture](general-osint-info/documentation/screen-capture.md)
@@ -39,8 +39,11 @@
   * [Online Sandboxes](general-osint-info/malware-analysis/online-sandboxes.md)
   * [Android](general-osint-info/malware-analysis/android.md)
 * [Blockchain](general-osint-info/blockchain.md)
-* [Web Scraping](general-osint-info/web-scraping/README.md)
-  * [Paste Sites](general-osint-info/web-scraping/paste-sites.md)
+* [Web](general-osint-info/web-scraping/README.md)
+  * [Scraping](general-osint-info/web-scraping/scraping/README.md)
+    * [Paste Sites](general-osint-info/web-scraping/scraping/paste-sites.md)
+    * [LinkedIn](general-osint-info/web-scraping/scraping/linkedin.md)
+  * [Web Scanning Datasets](general-osint-info/web-scraping/web-scanning-datasets.md)
 * [File Hosting Sites](general-osint-info/file-hosting-sites.md)
 * [WiFi](general-osint-info/wifi.md)
 * [Training](general-osint-info/training/README.md)

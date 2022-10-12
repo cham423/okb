@@ -13,6 +13,13 @@ description: 'input: domains | output: list of emails for input domains'
 4. rate development health
 5. rate automation potential
 
+### Phonebook.cz
+
+[https://phonebook.cz/](https://phonebook.cz/)
+
+* requires IntelX account to use (free signup)
+* 39,601 results for `microsoft.com`
+
 ### Hunter&#x20;
 
 {% embed url="https://hunter.io/search" %}
@@ -39,8 +46,6 @@ description: 'input: domains | output: list of emails for input domains'
 * $50-400/month depending on plan
 * free plan available, limited quota per month
 
-
-
 ### Infoga
 
 \<todo>
@@ -52,15 +57,15 @@ description: 'input: domains | output: list of emails for input domains'
 
 ### skymem.info
 
+{% hint style="danger" %}
+**Note: i have not confirmed this is a legitimate site**
+{% endhint %}
+
 {% embed url="http://www.skymem.info/" %}
 
 #### Example Results
 
 <figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
-
-{% hint style="danger" %}
-**Note: i have not confirmed this is a legitimate site**
-{% endhint %}
 
 * 36631 results
 
