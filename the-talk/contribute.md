@@ -1,18 +1,17 @@
 # Contribute!
 
-### I don't have a GitBook Account
+### New Workflow?
 
-* go to [https://github.com/cham423/okb](https://github.com/cham423/okb)
-* find the page you want to edit (search or manual)
-* make changes
-  * github browser editor
-  * command line
-* make pull request
-* submit!
+* consider your testing procedure, make sure it is repeatable
 
-### I have a GitBook Account
+### Have you used any of this before?
 
-* i will invite you to the space
-* you can manually create a change request using GitBook
+* add your experience/opinion to their descriptions
 
-&#x20;
+### Have something new?
+
+* add it, along with any supporting information you have
+
+{% content-ref url="../about/how-to-contribute.md" %}
+[how-to-contribute.md](../about/how-to-contribute.md)
+{% endcontent-ref %}

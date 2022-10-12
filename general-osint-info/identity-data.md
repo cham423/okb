@@ -8,6 +8,6 @@
 
 ### Pipl
 
-{% embed url="https://pipl.com" %}
+[https://pipl.com](https://pipl.com)
 
 * built primarily for identity verification

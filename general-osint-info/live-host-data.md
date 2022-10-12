@@ -2,7 +2,7 @@
 
 ### Shodan
 
-{% embed url="https://www.shodan.io" %}
+[https://www.shodan.io](https://www.shodan.io)
 
 * $69 - $1099 per month depending on number of results per month needed
 * 1 million, 20 million, or unlimited results options
@@ -10,7 +10,7 @@
 
 ### RiskIQ Community
 
-{% embed url="https://community.riskiq.com" %}
+[https://community.riskiq.com](https://community.riskiq.com)
 
 * free account with business email has the following monthly quotas:
 
