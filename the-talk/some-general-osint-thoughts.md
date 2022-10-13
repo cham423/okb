@@ -4,7 +4,7 @@
 
 * your intelligence gathering is part of someone else's intelligence
 * use a clean image if creating admissable evidence
-  * Michael Bazzell has an excellent guide for this in his book
+  * Michael Bazzell has an excellent guide for this in his OSINT Techniques book
 
 ### Automate anything you can&#x20;
 

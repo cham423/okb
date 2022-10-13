@@ -16,8 +16,16 @@ coverY: 0
 
 ### Other Great OSINT Resources
 
+{% embed url="https://metaosint.github.io/" %}
+TONS of links. The interactive graph is cool.
+{% endembed %}
+
 {% embed url="https://inteltechniques.com/tools/index.html" %}
 Michael Bazzell's IntelTechniques Site is Excellent
+{% endembed %}
+
+{% embed url="https://sector035.nl/links" %}
+Links Broken Down By Category
 {% endembed %}
 
 {% embed url="https://osintframework.com" %}

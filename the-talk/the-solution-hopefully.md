@@ -1,6 +1,11 @@
 # The Solution (hopefully)
 
-This site!! have you noticed my slides are on gitbook? it's public.
+* operators build their list of "go-to" tools over time based on experience
+* why not share this experience?&#x20;
+
+**This site!! have you noticed my slides are on gitbook? it's public.**
+
+[https://okb.goldmine.sh](https://okb.goldmine.sh)
 
 * Please contribute (more info on that later)
 

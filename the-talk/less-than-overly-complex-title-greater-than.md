@@ -1,6 +1,7 @@
 ---
 description: Evaluating OSINT Data sources and Tooling - Build vs Buy
-cover: https://w.wallhaven.cc/full/76/wallhaven-761x7o.jpg
+cover: >-
+  https://images.unsplash.com/photo-1565551223391-be988013ee6d?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwzfHxicm9rZW58ZW58MHx8fHwxNjY1NjM2Mzc5&ixlib=rb-1.2.1&q=80
 coverY: 0
 ---
 

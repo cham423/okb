@@ -1,6 +1,8 @@
 # How to Contribute
 
-### GitHub (recommended)
+### GitHub
+
+Editing on github is better if you're adding content to an existing page or making minor changes
 
 * go to [https://github.com/cham423/okb](https://github.com/cham423/okb)
 * find the page you want to edit (search or manual)
@@ -12,8 +14,10 @@
 
 ### GitBook
 
-* this is more involved, so I would only recommend this for "curators"
-* sign up for a gitbook account
-* contact me, provide your GitBook account's email address&#x20;
+GitBook editing will be required for bigger organization changes, adding new pages, or other "curator" tasks
+
+* sign up for a gitbook account if you don't have one
+* contact me (discord cham423#2790), provide your GitBook account's email address&#x20;
 * i will invite you to the space
-* you can manually create a change request using GitBook
+* make your changes in an edit
+* submit edit for review, along with any pertinent information

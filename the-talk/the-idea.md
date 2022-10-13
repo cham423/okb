@@ -22,10 +22,7 @@ Time wasters:
 
 We also have to decide between building it ourselves, using existing tools, or just paying for a commercial product.
 
-### Solution:
-
-* operators build their list of "go-to" tools over time based on experience
-* why not share this experience?&#x20;
+###
 
 
 
