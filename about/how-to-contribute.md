@@ -4,7 +4,7 @@
 
 Editing on github is better if you're adding content to an existing page or making minor changes
 
-* go to [https://github.com/cham423/okb](https://github.com/cham423/okb)
+* click "edit on github" in right panel, or go to [https://github.com/cham423/okb](https://github.com/cham423/okb)
 * find the page you want to edit (search or manual)
 * make changes (markdown)
   * github browser editor

@@ -20,21 +20,21 @@
 ## Reviewed Content
 
 * [Workflows](reviewed-content/workflows/README.md)
-  * [Email Enumeration by Domain](reviewed-content/workflows/email-enumeration-by-domain.md)
-  * [Legitimacy Evaluation](reviewed-content/workflows/legitimacy-evaluation.md)
   * [Profile Discovery by Username](reviewed-content/workflows/profile-discovery-by-username.md)
+  * [Email Enumeration by Domain](reviewed-content/workflows/email-enumeration-by-domain.md)
 * [Categories](reviewed-content/categories/README.md)
   * [Public Breach Databases](reviewed-content/categories/public-breach-databases.md)
-  * [Multipurpose Reconnaissance Tools](reviewed-content/categories/multipurpose-reconnaissance-tools.md)
   * [Live Host Data](reviewed-content/categories/live-host-data.md)
 
 ## 🕸 General OSINT Info
 
+* [Multipurpose Reconnaissance Tools](general-osint-info/multipurpose-reconnaissance-tools.md)
 * [Identity Data](general-osint-info/identity-data.md)
 * [Documentation](general-osint-info/documentation/README.md)
   * [Screen Capture](general-osint-info/documentation/screen-capture.md)
   * [Maps](general-osint-info/documentation/maps.md)
 * [Threat Intelligence](general-osint-info/threat-intelligence.md)
+* [Code Repositories](general-osint-info/code-repositories.md)
 * [Malware Analysis](general-osint-info/malware-analysis/README.md)
   * [Online Sandboxes](general-osint-info/malware-analysis/online-sandboxes.md)
   * [Android](general-osint-info/malware-analysis/android.md)
@@ -44,11 +44,10 @@
     * [Paste Sites](general-osint-info/web-scraping/scraping/paste-sites.md)
     * [LinkedIn](general-osint-info/web-scraping/scraping/linkedin.md)
   * [Web Scanning Datasets](general-osint-info/web-scraping/web-scanning-datasets.md)
-* [File Hosting Sites](general-osint-info/file-hosting-sites.md)
+  * [File Hosting Sites](general-osint-info/web-scraping/file-hosting-sites.md)
 * [WiFi](general-osint-info/wifi.md)
 * [Training](general-osint-info/training/README.md)
   * [Joe Gray / The OSINTion](general-osint-info/training/joe-gray-the-osintion.md)
-* [Code Repositories](general-osint-info/code-repositories.md)
 
 ## About
 

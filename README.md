@@ -1,7 +1,8 @@
 ---
 description: >-
-  The OKB is a collection of OSINT tools, products, and data sources. Its goal
-  is to provide curated content to help people along their OSINT journeys.
+  The OSINT Knowledge Base (OKB) is a collection of OSINT tools, products, and
+  data sources. Its goal is to provide curated content to help people along
+  their OSINT journeys.
 cover: https://w.wallhaven.cc/full/xl/wallhaven-xl1ydl.jpg
 coverY: 0
 ---
