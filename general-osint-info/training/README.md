@@ -18,3 +18,7 @@ todo, i need to make all of these into individual sub pages
 &#x20;[https://www.sans.org/cyber-security-courses/open-source-intelligence-gathering/](https://www.sans.org/cyber-security-courses/open-source-intelligence-gathering/)&#x20;
 
 [https://www.sans.org/cyber-security-courses/advanced-open-source-intelligence-gathering-analysis/](https://www.sans.org/cyber-security-courses/advanced-open-source-intelligence-gathering-analysis/)
+
+[https://osintcurio.us/](https://osintcurio.us)
+
+[https://www.bellingcat.com/](bellingcat)
