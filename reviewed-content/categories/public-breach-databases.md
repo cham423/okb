@@ -12,7 +12,7 @@
 * I am working to release this to the public
 
 ### Buy Pick: Dehashed
-
+* go to [https://www.dehashed.com/](https://www.dehashed.com/)
 * $15.50/month, or $179 annually
 * separate pricing for API credits and web access
   * API pricing: $3 for 100 credits
