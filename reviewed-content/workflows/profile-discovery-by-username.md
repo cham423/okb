@@ -18,7 +18,7 @@ description: 'inputs: username | outputs: list of profiles associated with that 
 see the template at the bottom of the page if you are adding a new tool.
 {% endhint %}
 
-## Build Pick
+## CLI Pick
 
 ### Sherlock
 
@@ -54,6 +54,33 @@ python3 sherlock.py cham423 -o cham423.out
 * very high, command line tool that supports input lists
 * \<todo> not tested at scale. from a single host, would likely encounter rate limiting when enumerating large numbers of profiles
 
+## Web Pick: whatsmyname.app
+
+[https://whatsmyname.app](https://whatsmyname.app)
+
+#### Example Results
+
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+* 34 total results
+* 0 false positives!
+
+#### Deployment
+
+* easy, web hosted
+
+#### Output <a href="#output" id="output"></a>
+
+* Clickable links, clipboard copy, excel, CSV, PDF
+
+#### Development Health <a href="#development-health" id="development-health"></a>
+
+* Well supported/maintained.
+
+#### Automation Potential <a href="#automation-potential" id="automation-potential"></a>
+
+* No captcha. there is an accompanying CLI tool, but it doesn't seem to function as well, with more false positive
+
 ## Other Tools
 
 ### WhatsMyName
@@ -71,6 +98,10 @@ python3 sherlock.py cham423 -o cham423.out
 * 114 total results
 * 75 false positives! (65% false positive rate)
 
+{% hint style="danger" %}
+_Note: I am not sure why the CLI version of this tool has so many false positives. The web-hosted version (whatsmyname.app) is excellent._&#x20;
+{% endhint %}
+
 #### Deployment
 
 * python (medium difficulty)
@@ -82,7 +113,7 @@ python3 sherlock.py cham423 -o cham423.out
 
 #### Development Health
 
-* OK, some recent contributions
+* good
 
 #### Automation Potential
 
@@ -123,7 +154,7 @@ python3 sherlock.py cham423 -o cham423.out
 
 #### Example Results
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 * 12 total results
 * 1 false positives
