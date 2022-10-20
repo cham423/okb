@@ -21,4 +21,4 @@ todo, i need to make all of these into individual sub pages
 
 [https://osintcurio.us/](https://osintcurio.us)
 
-[https://www.bellingcat.com/](bellingcat)
+[https://www.bellingcat.com/](https://www.bellingcat.com/)
